@@ -11,7 +11,6 @@ v7 appcompat library adds support for the Action Bar user interface design patte
 - **AppCompatDialog** - Adds a dialog class that can be used as a base class for AppCompat themed dialogs.
 - **ShareActionProvider** - Adds support for a standardized sharing action (such as email or posting to social applications) that can be included in an action bar.
 
-
 *The Gradle build script dependency identifier for this library is as follows:*
 
 ```ruby
